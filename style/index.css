@@ -1,0 +1,14 @@
+.header {
+  height: 200px;
+  background-color: blue;
+}
+
+.main {
+  height: 300px;
+  background-color: red;
+}
+
+.foot {
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+}
